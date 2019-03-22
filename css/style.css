@@ -5,7 +5,7 @@
 # -*- coding:utf-8 -*-
  * @github: https://github.com/longfengpili
  * @Date: 2018-10-26 09:16:12
- * @LastEditTime: 2019-03-21 09:07:27
+ * @LastEditTime: 2019-03-22 09:14:42
  */
 * {
 	margin: 0; 
@@ -283,10 +283,10 @@ ul#recommends li {margin: 0 0 20px 0; clear: both;}
 
 ul#jobs li .details,
 ul#schools li .details,
-ul#recommends li .details {float: left; width: 40%}
+ul#recommends li .details {float: left; width: 30%}
 ul#jobs li p,
 ul#schools li > p,
-ul#recommends li > p {float: right; width: 57%; margin-bottom: 25px;}
+ul#recommends li > p {float: right; width: 70%; margin-bottom: 25px;}
 
 .details h5 {font-style: italic;}
 
